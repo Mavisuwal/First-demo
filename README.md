@@ -1,4 +1,4 @@
-# First-demo
+# Quiz-game
 This is my first repository
 print("Welcome to My Computer Quiz!")
 
