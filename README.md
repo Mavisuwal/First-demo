@@ -1,7 +1,6 @@
 # Quiz-game
 <h1>This is my first repository</h1>
 </br>
-</br>
 print("Welcome to My Computer Quiz!")
 
 playing = input("Do you want to play? ")
